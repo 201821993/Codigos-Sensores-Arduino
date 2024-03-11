@@ -1,0 +1,39 @@
+bmp280				
+	presion
+	altitud
+	temperature
+Estacion
+	anenometro 		cada 3 segundos
+	pluviometro		cada hora , bajo la condición
+	veleta			cada segundo 
+
+uv	minuto y medio 1 : 30
+tds 
+particulas suspendidas
+		pm 
+		pm
+		pm
+mq131			
+ma135
+
+envio a la pagina web -> 5 minutos 
+ 
+
+orden de ejecución
+Grupo A
+	bmp280		cada minuto 1:00
+	uv		
+Grupo b
+	tds 
+		lectura		1:30 
+		calculo de tds	1: 31
+
+Grupo c
+
+		
+sensor de particulas suspendidas  3:00 tiempo de expanción de 30 segundos
+	
+
+pediniente 
+mq131	
+envio a la página web
