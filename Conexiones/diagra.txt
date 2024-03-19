@@ -1,0 +1,10 @@
+-----link------
+diagrama en IDE easyeda
+modelo para placa PCB
+
+
+---------V.2 Diagrama Circuiteria---------
+https://easyeda.com/editor#id=bbed1a5a19a44770a614ee8cc0d66fba|e7b6402b9f4a49a1a4c606ded79def16
+
+
+------ Diagrama PCB------------------------------
